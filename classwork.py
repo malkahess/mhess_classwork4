@@ -1,1 +1,2 @@
-print('tryout')
+print('trying')
+print('bye')
